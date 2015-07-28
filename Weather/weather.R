@@ -37,5 +37,3 @@ png(filename = "dayDifferences.png", width = 800, height = 634)
 ggplot(weather, aes(x=Date, y = diff, color = City)) + geom_line() + 
     ggtitle("Difference from previous day's temperature") + ylab("Fahrenheit")
 dev.off()
-
-### what are the 
