@@ -1,3 +1,5 @@
+*This README was forked from `https://github.com/rdpeng/RepData_PeerAssessment1`. I've followed the below instructions, and the rest of the files in this directory are the results.* 
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
