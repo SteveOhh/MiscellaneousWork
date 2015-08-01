@@ -1,4 +1,4 @@
-*Plotting Assignment 1 for Exploratory Data Analysis*
+*This README was forked from `https://github.com/rdpeng/ExData_Plotting1`. I've followed the below instructions, and the rest of the files in this directory are the results.
 
 ## Introduction
 
